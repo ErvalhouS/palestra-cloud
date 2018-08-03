@@ -1,0 +1,9 @@
+test:
+  service: Disk
+  root: <%= Rails.root.join("tmp/storage") %>
+
+google:
+  service: GCS
+  project: gdgpalestracloud
+  credentials: <%= Rails.root.join("gcs.keyfile") %>
+  bucket: meu-balde

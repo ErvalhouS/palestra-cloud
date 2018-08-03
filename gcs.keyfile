@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gdgpalestracloud",
+  "private_key_id": "a1c53a2bb89a88eeb20d49114e9d6410d16250e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDeGXprdv26HYhK\nP98gikh3jbU2j5dwD6kj156RIOHSNbuIZ21bCekx5SWPV97+OwpR6JPNsOPFN8aJ\nkMDtwtBnu366kGnKpNRNIHijjdhhaGPKTJLc4htPOCy+wuzmTWsmaaugKWG9pxIw\n+7Hone+K2edvVHFy/bJtfGDkTkLRwSQPE+VlkvQp3A2ZjVqL6PXWdKDB5wf2hyNe\njzfICVBVpWjkTu38KGXE4/PU0UZ2bulmxYNuBIHYOVWs3fUGzJT0VBMe0buQwL0Z\n0Sg18o4MCwBDqbDdfxjnLE8y+5Q9N6su85g8RpF8GWv8VjbEzkXY1ddKsJEYb6B5\nY9u2V4fnAgMBAAECggEAKXeAT8grnzAcXiCGvECVPx0KFGHC2H1UCwka5eXJw8Gc\nfd8xn6m+DD7IQHcbf0PurVRLJEA+hnffbZfFLZ8N4hAznQmRdvBHYw8I9yBooecn\nmoGpeewNRUEruYITUPxrYQShsomHYi1rTBHyKYgzTS1Z9INDm0Caq65pOLcT6q1X\nuuYIK8u2sL/zA2ZHzjYWDYYKXTEtsXqOuSPoEV73rsEpAw0LSex+6rfv1zZedrXJ\nxYRLjMAVY4RgNe805h1L68jpF8R1n5JAK6HhlupJgGQQDs6AjCuzDXnYMRf2FLpj\nWnppxH01adnFyjube/ZgHbYZ6kwgK05MNFabLLLUAQKBgQD472xR/ajMyCl7l4v/\n0jFXoC6S7Ots+OtEPr53OdREQ0wGGpc4KfN46gI63EPeEdW8zIWdO8HIrtbFB5Db\nKtTeOUNXW/PCmDvG148fKkW93SPm1BSC3SCORiIZkPXd88foqz/swPKaIrSFccrA\nCMiPQLKxizgZju1K3Hn1YNq6ZwKBgQDkZxY66PaSPagdRwU4fKtk5O1ubGIP7h8W\n3dCPPKHRny10cQywEXqeijshg62tE+sYHRf1PPr1V2BPp+hdnlPlEiqof7edVRST\nN5YzCkFEHjdYpMEhDsIlV7X8KWzqflE2Ud7uXvq3Ljp6gCNngyjcQHhZX/DCB+jH\nNJSMd9dWgQKBgQCDhPNkyjChqOsJykKEMUgydIXGyHeFxml+T+wPT7VPL4L+ApR8\nbuWcr33oHTGaJTAYpLG/JbA3V/BOfrXQpWt70SM8B2/dEtMaNg7+tzXLnwd1z/za\nOvwVTwZ7HXRZBJBM5BVM/4/tUYKwsjMdjEZyMQt39Ab6seG62Ity0e4d5wKBgD3c\nRcMS0aVuGZhEYf+YlHsxHbVomW6jGbyBuzjwPQufRxpgfAU71rAV1EoRdfqIiIXx\na0m6iGXmkmlAmsiwVxyVvQQCA2MTZg0xYvbT8jVW0bqqdLxVWPPwO5PeTGd+atSB\nfBWnl9QBK0l+ZxhkB68PrwjV2UlUBxHdBda9po8BAoGBAPA/d+c15dviN0Jch9ro\nneRVwavCqgvzjgtY2qKB76Yzvx2NaJQridP8Z+QI+mYsgvGjYhbUGW3sehgGMdFg\nNpp3K2tiHxBQ1t5VD7aGm0TxFImqcopBHNvXQDmeZVlXzawwo/+EkxkrJLNqCyec\nl7XdNkZfNHeY5gppdA4kQ4QI\n-----END PRIVATE KEY-----\n",
+  "client_email": "conta-do-meu-app@gdgpalestracloud.iam.gserviceaccount.com",
+  "client_id": "112754108552522300469",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/conta-do-meu-app%40gdgpalestracloud.iam.gserviceaccount.com"
+}
